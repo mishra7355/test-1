@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --subtitles: Syne;
+  --body-text-14: "Work Sans";
+  --font-poppins: Poppins;
+  --buttons-middle: "DM Sans";
+
+  /* font sizes */
+  --subtitles-size: 26px;
+  --body-text-14-size: 14px;
+  --h1-title-size: 135px;
+  --body-text-18-size: 18px;
+  --font-size-xs: 12px;
+  --h2-title-size: 90px;
+  --font-size-3xs: 10px;
+  --font-size-21xl: 40px;
+  --heading-h2-header-size: 58px;
+  --heading-h5-lead-size: 22px;
+  --heading-h3-title-size: 42px;
+  --text-paragraph-size: 16px;
+  --font-size-36xl: 55px;
+
+  /* Colors */
+  --grey-scale-000: #fff;
+  --grey-scale-1000: #000;
+  --color-gray-200: #1a1a1a;
+  --color-gray-100: #161615;
+  --colors-text: rgba(21, 20, 57, 0.4);
+  --grey-scale-200: rgba(255, 255, 255, 0.5);
+  --greyscale-400: rgba(22, 22, 21, 0.5);
+  --pimary-colour: #f07e15;
+  --color-dimgray: #626262;
+  --background-dark: #2f1893;
+  --action-third: #e93a7d;
+  --colors-heading: #1e0e62;
+  --colors-grey: #ebeaed;
+  --action-primary: #25dac5;
+  --action-secondary: #482be7;
+  --socials-twitter: #1da1f2;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-10xs: 3px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+}
